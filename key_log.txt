@@ -1,0 +1,1 @@
+'g''o''o''g''l''e''g''t'Key.backspace'i''t'Key.enter'n''m''1''2'Key.enterKey.ctrl_l'v'Key.enterKey.scroll_lockKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.rightKey.leftKey.rightKey.rightKey.leftKey.leftKey.leftKey.rightKey.right'w''h'Key.enter'\x01'Key.ctrl_l'w''h'Key.backspaceKey.downKey.enter'w''h'Key.downKey.enter'g'Key.enter
